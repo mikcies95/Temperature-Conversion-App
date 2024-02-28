@@ -12,5 +12,5 @@ Enter a temperature in numbers, select the conversion and press submit.
 
 ![An example of conversion from Celsius to Fahrenheit](TC2.jpg?raw=true "page example")
 
-![An example of conversion from Fahrenheit to Celsius](TC2.jpg?raw=true "page example")
+![An example of conversion from Fahrenheit to Celsius](TC3.jpg?raw=true "page example")
 
